@@ -4,12 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lab3
+namespace Hello
 {
     class Program
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello Computer Lab. ");
+            Console.ReadKey();
         }
     }
 }
