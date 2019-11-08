@@ -10,7 +10,8 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Year 255x semester 1,I am an Engedu Freshman.");
+            Console.WriteLine("Year 255x semester 1, I am an Engedu Freshman.");
+            Console.WriteLine("Year 255x semester 2, I learn to program in C Sharp.");
         }
     }
 }
