@@ -4,6 +4,18 @@
 
 ## 11.3 การทำ Branching ##
 
+### อ่านก่อนทำการทดลอง ###
+
+[แนวคิดในการทำ branch สำหรับการทดลองนี้](./Week_11_Branching_concept.md)
+
+[ตัวอย่างการเขียน markdown](./markdown_giude.md)
+
+[ตัวอย่างการสร้างตาราง Transcript](./Transcript_table_example.md)
+
+---
+## การทดลอง ##
+
+
 16. ในหน้าต่าง Team Explorer  ให้ทำการสร้าง repository  ใหม่ โดยใช้ชื่อว่า EngEdu<p>
 <img src = "./images/Fig-3.34.png">
 
