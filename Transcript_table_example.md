@@ -20,6 +20,12 @@
 |06|31087987 |Laboratory 6 |  3 |  B    |
 |07|38797898 |Laboratory 7 |  3 |  C    |
 
-<b> GPS : </b> 3.25  <p>
-<b> GPA : </b> 3.25 <p>
-<b> Status : </b> Pass 
+
+|Result|value|
+|------|----:|
+|GPS   |3.25 |
+|GPA   |3.25 |
+
+<b>Status:</b> Pass 
+
+
