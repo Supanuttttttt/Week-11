@@ -1,23 +1,10 @@
 # การทดลองสัปดาห์ที่ 11  #
 # การใช้งาน git ร่วมกับ Visual studio IDE #
----
-### การติดตั้ง IDE (Microsoft Visual Studio Community Edition) ###
 
-การทดลองนี้จะใช้ Microsoft Visual Studio Community Edition ดังนั้นหากนักศึกษายังไม่ได้ติดตั้ง ให้ดำเนินการติดตั้งให้เรียบร้อย โดยมี component สำคัญที่ต้องติดตั้งคือ Git for Windows ดังเอกสารแนะนำต่อไปนี้
-*  [การติดตั้ง IDE (Microsoft Visual Studio Community Edition)](./VS-Installation.md)
+## การทดลอง 
 
----
-### หัวข้อการทดลอง ###
+### 3.1 การสร้าง repository บน GitHub ด้วย Visual Studio 
 
- 1. การสร้าง repository บน GitHub ด้วย Visual Studio
-
- 2. การ clone จาก repository ด้วย Visual Studio
-
- 3. การสร้าง repository บน GitHub ด้วย Visual Studio
-
----
-
-## 11.1 การสร้าง repository บน GitHub ด้วย Visual Studio ##
 
 <table>
 <tr> 
@@ -94,11 +81,10 @@
 
 
 
-#### ++เมื่อ sync เสร็จ ให้ตรวจสอบรายการไฟล์ใน repository บน GitHub.com++ ###
+#### ++เมื่อ sync เสร็จ ให้ตรวจสอบรายการไฟล์ใน repository บน GitHub.com++ 
 
----
 
-## 11.2 การ clone จาก repository ด้วย Visual Studio ##
+### การทดลอง 3.2 การ clone จาก repository ด้วย Visual Studio
 
 9. สร้าง repository บน GitHub.com โดยมีรายละเอียดดังนี้
     <ul>
@@ -151,7 +137,7 @@
 <p> ในการพัฒนา software มีบ่อยครั้งที่เราต้องทำการเพิ่มเติมความสามารถพิเศษให้กับซอฟต์แวร์ หรือทำการแก้ bug ที่พบ โดยไม่ต้องการให้เกิดผลกระทบต่อ source code ที่อยู่ในสาขาหลัก (master)  เราจึงต้องทำการแยกแขนง (branch) ออกมาเพื่อพัฒนา ซึ่งในการแยก branch ออกมาพัฒนานี้ ก็ยังสามารถทำงานเป็นทีมและยังคงต้อง clone มาทำงานกับ local repository เช่นเดียวกัน </p>
 
 
-## 11.3 การทำ Branching ##
+## การทดลอง 3.3 การทำ Branching
 
 16. ในหน้าต่าง Team Explorer  ให้ทำการสร้าง repository  ใหม่ โดยใช้ชื่อว่า EngEdu<p>
 <img src = "./images/Fig-3.34.png">
