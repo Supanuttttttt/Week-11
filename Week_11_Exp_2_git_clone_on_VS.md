@@ -11,20 +11,45 @@
     </ul>
 <img src = "./images/Fig-3.28.png" align = "center">
 
+
+#### ให้ capture หน้าจอ repo ที่ได้ของนักศึกษามาแทนที่ภาพนี้ ####
+
+```
+ผลการสร้าง repo บน github.com
+```
+<img src = "./images/Fig-3.28_res.png" align = "center">
+
+
 <table>
 <tr> 
-<td valign="top" width = "50%">10. ใน Visual Studio ให้ไปที่หน้าต่าง Team Explorer แล้วคลิกที่ Manage Connections 
- <br>11. คลิกที่ Clone </td>
-<td valign="top"><img src = "./images/Fig-3.29.png"> </p> </td>
+<td valign="top" width = "50%">10. ใน Visual Studio ให้ไปที่หน้าต่าง Git Changes 
+ </td>
+<td valign="top"><img src = "./images/Fig-3.29a.png"> </p> </td>
+
 </tr>
+<td valign="top" width = "50%">11. คลิกที่ Clone Repository...</td>
+<td valign="top"><img src = "./images/Fig-3.29b.png"> </p> </td>
+
 </table>
 
 
 <table>
 <tr> 
-<td valign="top" width = "50%">12.  ในหน้าต่าง Clone a GitHub Repository ให้เลือก repository ชื่อ HelloWorld ที่ได้สร้างไว้ในขั้นตอนที่ 8 แล้วกดปุ่ม Clone</td>
-<td valign="top"><img src = "./images/Fig-3.30.png"> </p> </td>
+<td valign="top" width = "40%">12.  ในหน้าต่าง Clone a GitHub Repository  Clone</td>
+<td valign="top"><img src = "./images/Fig-3.30a.png"> </p> </td>
 </tr>
+
+<tr> 
+<td valign="top" width = "40%">12.1 ไปที่ GitHub Repository เพื่อคัดลอก url ของ repository ชื่อ HelloWorld ที่ได้สร้างไว้ในขั้นตอนที่ 8 แล้วกดปุ่ม Code และตัดลอก url</td>
+<td valign="top"><img src = "./images/Fig-3.30b.png"> </p> </td>
+</tr>
+
+<tr> 
+<td valign="top" width = "40%">12.2 วาง url ของ repository ลงใน (1) <br> เลือก folder ที่ตั้งของ working directory ใน (2)  แล้วกดปุ่ม Clone (3) </td>
+<td valign="top"><img src = "./images/Fig-3.30c.png"> </p> </td>
+</tr>
+
+
 </table>
 
 
