@@ -1,19 +1,20 @@
-# การทดลองสัปดาห์ที่ 11  #
-# การใช้งาน git ร่วมกับ Visual studio IDE #
----
+# การทดลองสัปดาห์ที่ 11 #
 
+# การใช้งาน git ร่วมกับ Visual studio IDE #
+
+---
 
 ## 11.1 การสร้าง repository บน GitHub ด้วย Visual Studio ##
 
 <table>
-<tr> 
+<tr>
 <td valign="top"  width = "50%">ในแท็บ Team Explorer ให้สร้าง repository โดยการคลิกปุ่ม <b>Create</b></td>
 <td valign="top "><img src = "./images/Fig-3.20.png"> </p> </td>
 </tr>
 </table>  
 
 <table>
-<tr> 
+<tr>
 <td valign="top"  width = "50%">ระบุรายละเอียดของ repo ใหม่ที่จะสร้าง
 <ul>
   <li> ในช่อง Name ให้เพิ่มชื่อ repository  <b>CL64-xxx-week11</b>
@@ -28,7 +29,6 @@
 </tr>
 </table>  
 
- 
 ### เมื่อสร้างเสร็จ ให้ตรวจสอบรายการ repository ที่เพิ่มขึ้นบน GitHub.com ###
 
 ```
@@ -42,7 +42,7 @@
 ```
 
 <table>
-<tr> 
+<tr>
 <td valign="top"  width = "50%">3. เพิ่ม solution ใหม่ไปยัง repository<br>
 คลิกที่ New… จะปรากฏหน้าต่าง ให้สร้าง Solution ใหม่ ให้ทำตามข้อ 4
 </td>
@@ -57,9 +57,8 @@
 5. เมื่อ Solution ใหม่ถูกสร้างขึ้นมา ให้แก้ไข code ตามรูปต่อไปนี้
 <img src = "./images/Fig-3.24.png">
 
-  
 <table>
-<tr> 
+<tr>
 
 ทดลอง Build และ Run โปรแกรมที่ได้ ว่ามีความถูกต้องหรือไม่ ให้แก้ไขจนกว่าจะได้โปรแกรมที่ถูกต้องและรันได้ตามต้องการ
 
@@ -76,27 +75,23 @@
 </table>
 
 <table>
-<tr> 
+<tr>
 <td valign="top" width = "50%">7. Team Explorer จะรายงานไฟล์ที่มีการเปลี่ยนแปลง พร้อมทั้งมีช่่องให้ใส่ข้อความสำหรับการ  commit  เมื่อกรอกข้อความเสร็จให้คลิกปุ่ม Commit All
 </td>
 <td valign="top" ><img src = "./images/Fig-3.26.png" > </p> </td>
 </tr>
 </table>
 
-
-
-
 การสั่ง Commit All จะเป็นการเก็บบันทึกการเปลี่ยนแปลงที่แสดงในรูปไว้ใน Local repository ถ้าหากเราต้องการบันทึกการเปลี่ยนแปลงไว้บนเวบ GitHub จะต้องทำการ Sync  ซึ่งคำสั่ง Sync  นี้จะทำการ pull และ push ให้เราโดยอัตโนมัติทั้ง 2 คำสั่ง
 
 <table>
-<tr> 
+<tr>
 <td valign="top" width = "50%" >8. ให้ทำการ sync repo ที่เราสร้างขึ้นไปบน Github</td>
 <td valign="top" ><img src = "./images/Fig-3.27.png"> </p> </td>
 </tr>
 </table>
 
-
-
+__การสร้าง solution ใหม่ จะสร้างขึ้นใน working directory เหมือนการทำงานตามปกติ ในขณะที่เรากำลังพัฒนาโปรแกรมนั้น จะไม่มีการรบกวนใดๆ ทั้งสิ้น จาก git__
 
 #### ++เมื่อ sync เสร็จ ให้ตรวจสอบรายการไฟล์ใน repository บน GitHub.com++ ###
 
