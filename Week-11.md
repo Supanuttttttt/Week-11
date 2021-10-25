@@ -1,10 +1,10 @@
-# การทดลองที่ 3 
-# การใช้งาน git ร่วมกับ Visual studio IDE 
+# การทดลองสัปดาห์ที่ 11  #
+# การใช้งาน git ร่วมกับ Visual studio IDE #
 
-## แนะนำ Dot NET Framework
+## แนะนำ Dot NET Framework ##
 __Dot NET Framework__ เป็น Framework ที่พัฒนามาเพื่อรองรับการสร้างซอฟต์แวร์บน platform ต่างๆ เช่น  แอพพลิเคชั่นบนระบบปฏิบัติการวินโดวส์ (Windows applications) ระบบปฏิบัติการโทรศัพท์เคลื่อนที่ (Mobile applications) โปรแกรมประยุกต์สำหรับเวบ (Web applications) คอมโพเนนท์ (Components) และ XML Web Services โดย .NET Framework จะอยู่บนสถาปัตยกรรมที่แยกชั้นจาก Kernel ของระบบปฏิบัติการอย่างชัดเจน เป็นผลให้สามารถนำ .NET Framework  ไปติดตั้งบนระบบปฏิบัติการได้หลากหลาย
 
-## สถาปัตยกรรมของ .NET
+## สถาปัตยกรรมของ .NET ##
 <p align="center">  <img src = "./images/Fig-3.1.png"  width = "80%"> </p>
 <p align="center"> <b> รูปที่ 3-1 </b> สถาปัตยกรรมของ .NET Framework</p>
 
