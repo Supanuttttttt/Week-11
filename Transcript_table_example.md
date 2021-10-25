@@ -21,5 +21,5 @@
 |07|38797898 |Laboratory 7 |  3 |  C    |
 
 <b> GPS : </b> 3.25  <p>
-<b> GPA : </b> 3.25 
+<b> GPA : </b> 3.25 <p>
 <b> Status : </b> Pass 
