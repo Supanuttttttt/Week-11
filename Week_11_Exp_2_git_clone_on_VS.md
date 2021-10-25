@@ -5,7 +5,7 @@
 
 9. สร้าง repository บน GitHub.com โดยมีรายละเอียดดังนี้
     <ul>
-      <li> Repository name : HelloWorld
+      <li> Repository name : Sxxx_HelloWorld <i>[โดย xxx คือเลขสามตัวท้ายของรหัสนักศึกษา]</i>
       <li> [X] Initialize this repository with a README
       <li> [ Add .gitignore : VisualStudio] 
     </ul>
