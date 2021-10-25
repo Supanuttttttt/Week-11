@@ -2,4 +2,6 @@
 ## Faculty of Industrial Educayion and Technology ##
 ---
 ### Transcript
-<H3> Name : </H3> Koson Trachu
+
+<b> Name : </b> Koson Trachu <p>
+<b> ID : </b> 64000000
