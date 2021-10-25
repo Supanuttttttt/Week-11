@@ -16,9 +16,10 @@
 <tr> 
 <td valign="top"  width = "50%">ระบุรายละเอียดของ repo ใหม่ที่จะสร้าง
 <ul>
-  <li> ในช่อง Name ให้เพิ่มชื่อ repository  <b>CL60-03</b>
-  <li> ในช่อง Description ให้ใส่รายละเอียดสั้นๆ  <b>Computer Laboratory 1 : Lab 03</b>
-  <li> ในช่อง Local path ให้ใส่ path ไปยังงานที่เคยทำไว้แต่อยู่ใน folder หลักเดียวกัน เช่น ถ้างานเดิม c:\Code\CL60-02 ให้ใส่เป็น  <b>c:\Code\CL60-03</b>
+  <li> ในช่อง Name ให้เพิ่มชื่อ repository  <b>CL64-xxx-week11</b>
+  <span style="color:blue">โดย xxx คือเลขสามตัวท้ายของรหัสนักศึกษา</span>
+  <li> ในช่อง Description ให้ใส่รายละเอียดสั้นๆ  <b>Computer Laboratory 1 :  week 11</b>
+  <li> ในช่อง Local path ให้ใส่ path ไปยังงานที่เคยทำไว้แต่อยู่ใน folder หลักเดียวกัน เช่น ถ้างานเดิม c:\Code\CL60-02 ให้ใส่เป็น  <b>c:\Code\CL64-xxx-week11</b>
   <li> ในช่อง Git ignore และ License คงไว้อย่างที่ปรากฏ
   <li> กดปุ่ม <b>Create</b>
 </ul>
