@@ -64,7 +64,7 @@
 
 <p> <img src = "./images/Fig_CaseStudy_11.png">
 
-
-์ขั้นต่อไป Branch 2 
+---
+### ์ขั้นต่อไป Branch 2 [แก้ไข User Interface](./Week_11_CaseStudy_MyTranscript_Branch2.md)
 
 
