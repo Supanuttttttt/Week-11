@@ -2,6 +2,7 @@
 # กรณึศึกษา การสร้างโปรแกรม My Transcript #
 
 ## Branch 1 สร้าง Project ##
+---
 
 1. ใน Visual studio  ให้ทำการสร้าง Project ใหม่ 
 <p>   <img src = "./images/Fig_CaseStudy_1.png">
