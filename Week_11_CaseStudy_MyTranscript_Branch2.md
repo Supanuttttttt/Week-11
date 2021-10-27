@@ -147,6 +147,6 @@
 
 
 ---
-### >>> [ขั้นต่อไป Branch 3 เพิ่มคลาส course เพื่อบันทึกรายวิชาและเกรด](./Week_11_CaseStudy_MyTranscript_ฺBranch3.md) ###
+### >>> [ขั้นต่อไป Branch 3 เพิ่มคลาส course เพื่อบันทึกรายวิชาและเกรด](./Week_11_CaseStudy_MyTranscript_Branch3.md) ###
 
 ### >>> [กลับไปที่สารบัญ](./Week_11_CaseStudy_MyTranscript_Inrto.md) ###
