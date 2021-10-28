@@ -13,7 +13,7 @@
 
  [2. การ clone จาก repository ด้วย Visual Studio](./Week_11_Exp_2_git_clone_on_VS.md)
 
- [3. การสร้าง repository บน GitHub ด้วย Visual Studio](./Week_11_Exp_3_git_branching.md)
+ [3. กรณึศึกษา การสร้างโปรแกรม My Transcript](./Week_11_CaseStudy_MyTranscript_Inrto.md)
 
 ---
 
