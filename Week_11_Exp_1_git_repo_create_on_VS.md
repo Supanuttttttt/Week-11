@@ -1,6 +1,6 @@
 # การทดลองสัปดาห์ที่ 11 #
 
-# การใช้งาน git ร่วมกับ Visual studio IDE #
+# การใช้งาน git ร่วมกับ Visual studio IDE 2017 #
 
 ---
 
