@@ -58,6 +58,10 @@ class Course
 
 4.1 ให้ build โปรแกรม ถ้าไม่มี error ให้ commit และ push
 
+### 5. สร้าง branch ใหม่ ชือ add-course-to-class
+
+* ไม่มีภาพตัวอย่างให้ดู ให้ทำตามขั้นตอนการสร้าง branch ในหัวข้อก่อนหน้านี้ 
+
 ---
 ### >>> [ขั้นต่อไป Branch 4 เพิ่มคลาส course เพื่อบันทึกรายวิชาและเกรด](./Week_11_CaseStudy_MyTranscript_Branch3.md) ###
 
