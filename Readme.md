@@ -9,11 +9,9 @@
 ---
 ### หัวข้อการทดลอง ###
 
- [1. การสร้าง repository บน GitHub ด้วย Visual Studio](./Week_11_Exp_1_git_repo_create_on_VS.md)
+ [1. การ clone จาก repository ด้วย Visual Studio](./Week_11_Exp_2_git_clone_on_VS.md)
 
- [2. การ clone จาก repository ด้วย Visual Studio](./Week_11_Exp_2_git_clone_on_VS.md)
-
- [3. กรณึศึกษา การสร้างโปรแกรม My Transcript](./Week_11_CaseStudy_MyTranscript_Inrto.md)
+ [2. กรณึศึกษา การสร้างโปรแกรม My Transcript](./Week_11_CaseStudy_MyTranscript_Inrto.md)
 
 ---
 
