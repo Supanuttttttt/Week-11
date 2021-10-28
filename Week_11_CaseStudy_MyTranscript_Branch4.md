@@ -60,16 +60,26 @@ public string Grade { get; set; }
 ให้ทดลองกดปุ่ม Add ซ้ำ หลายๆ ครั้ง จะพบว่า  ไม่มีการนำข้อมูลจาก TextBox  ไปเติมใน DatGridView !!!!
 
 
+List<Course> ที่ชื่อ newCourse นั้น ถูกนำไปใช้กับ DataGridView และถูกล็อกไว้ 
+ให้ปลดปล่อย newCourse โดยเซ็ต DataSource ของ DataGridView ให้เป็น null เสียก่อน แล้วค่อยเพิ่มข้อมูลใน newCourse  แล้วเชื่อมกับ DataGridView อีกครั้ง
+
+5. เพิ่มบรรทัดลงในเมธอด ```AddGrade()```
+<p> <img src = "./images/Fig_CaseStudy_27.png">
 
 
+5. Build และ Run โปรแกรม จะต้องสามารถเพิ่มรายวิชาพร้อมเกรดลงใน DataGridView ได้ตามการคลิก
+
+<p> <img src = "./images/Fig_CaseStudy_28.png">
 
 
+### ทดลองแก้ไขรายละเอียดวิชาให้ตรงกับความเป็นจริง แล้วจับภาพหน้าจอมาส่ง ###
+
+-----
 
 
+### >>> [ขั้นต่อไป Branch 5 เพิ่มคลาส course เพื่อบันทึกรายวิชาและเกรด](./Week_11_CaseStudy_MyTranscript_Branch5.md) ###
 
-
-
-
+### >>> [กลับไปที่สารบัญ](./Week_11_CaseStudy_MyTranscript_Inrto.md) ###
 
 
 
