@@ -2,7 +2,7 @@
 
 # กรณึศึกษา การสร้างโปรแกรม My Transcript #
 
-## Branch 6 Export Data ไปยังเอกสาร markdown##
+## Branch 7 Export Data ไปยังเอกสาร markdown##
 
 ---
 
