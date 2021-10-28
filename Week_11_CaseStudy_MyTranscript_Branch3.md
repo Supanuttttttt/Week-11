@@ -63,6 +63,6 @@ class Course
 * ไม่มีภาพตัวอย่างให้ดู ให้ทำตามขั้นตอนการสร้าง branch ในหัวข้อก่อนหน้านี้ 
 
 ---
-### >>> [ขั้นต่อไป Branch 4 เพิ่มคลาส course เพื่อบันทึกรายวิชาและเกรด](./Week_11_CaseStudy_MyTranscript_Branch3.md) ###
+### >>> [ขั้นต่อไป Branch 4 เพิ่มคลาส course เพื่อบันทึกรายวิชาและเกรด](./Week_11_CaseStudy_MyTranscript_Branch4.md) ###
 
 ### >>> [กลับไปที่สารบัญ](./Week_11_CaseStudy_MyTranscript_Inrto.md) ###
