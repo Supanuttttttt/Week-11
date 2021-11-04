@@ -45,9 +45,8 @@ __(3) เพิ่ม Button__
 ในงานนี้เราจะใช้ StringBuilder มาสร้าง object สำหรับเก็บข้อมูล string ที่สามารถเพิ่มข้อความต่อท่้าย ได้ใน 2 รูปแบบคือ  Append() ซึ่งเป็นการต่อท้ายตามปกติ และ AppendLine() ซึ่งเป็นการเพิ่ม string ต่อท้ายและขึ้นบรรทัดใหม่ให้อีกด้วย
 
 ในที่นี้เราจะสร้างเนื้อหาในไฟล์ชนิด csv ซึ่งเป็น  text file และสามารถเปิดด้วย Microsoft excel ได้
- 
- 
- method ```SaveFile()``` จะทำหน้าที่จัดเตรียมข้อมูล โดยเอารายวิชามาจาก List ที่ผู้ใช้กรอกเข้ามา แปลงเป็น string จากนั้นจะเอา string ที่สร้างใน method นี้ไปเขียนลงในไฟล์ โดย 
+  
+เมธอด ```SaveFile()``` จะทำหน้าที่จัดเตรียมข้อมูล โดยเอารายวิชามาจาก List ที่ผู้ใช้กรอกเข้ามา แปลงเป็น string จากนั้นจะเอา string ที่สร้างใน method นี้ไปเขียนลงในไฟล์ โดย เมธอด ```private void WriteToFile(string filename, StringBuilder sb)```
 
 ```cs
     private void SaveFile(object sender, EventArgs e)
