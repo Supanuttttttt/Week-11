@@ -17,6 +17,7 @@
 |    6    | [บันทึกไฟล์](./Week_11_CaseStudy_MyTranscript_Branch6.md)|
 |    7    | [export เนื้อหาเป็นไฟล์ markdown](./Week_11_CaseStudy_MyTranscript_Branch7.md)|
 
+**หัวข้อที่ 6 และ 7 จะทำตามมาในภายหลังครับ**
 
 
 
