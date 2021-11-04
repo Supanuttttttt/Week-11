@@ -2,7 +2,7 @@
 
 # กรณึศึกษา การสร้างโปรแกรม My Transcript #
 
-## Branch 6 Save files##
+## Branch 6 Save files ##
 
 ---
 ### ลำดับขั้นการทดลอง ###
@@ -47,7 +47,7 @@ __(3) เพิ่ม Button__
 ในที่นี้เราจะสร้างเนื้อหาในไฟล์ชนิด csv ซึ่งเป็น  text file และสามารถเปิดด้วย Microsoft excel ได้
  
  
- method ```SaveFile()`` จะทำหน้าที่จัดเตรียมข้อมูล โดยเอารายวิชามาจาก List ที่ผู้ใช้กรอกเข้ามา แปลงเป็น string จากนั้นจะเอา string ที่สร้างใน method นี้ไปเขียนลงในไฟล์ โดย 
+ method ```SaveFile()``` จะทำหน้าที่จัดเตรียมข้อมูล โดยเอารายวิชามาจาก List ที่ผู้ใช้กรอกเข้ามา แปลงเป็น string จากนั้นจะเอา string ที่สร้างใน method นี้ไปเขียนลงในไฟล์ โดย 
 
 ```cs
     private void SaveFile(object sender, EventArgs e)
@@ -137,7 +137,7 @@ __(3) เพิ่ม Button__
 7. รันโปรแกรม ทดลองเพิ่มข้อมูล จากนั้นกดปุ่ม Save
 8. โปรแกรมจะพิมพ์ข้อความออกทางหน้าต่าง output และเขียนไฟล์ชื่อ ```mygrade.csv``` ไว้ในโฟลเตอร์ ```...MyTranscript\bin\Debug```
    
-9. ใช้ MS Excel เปิดไฟล์ ```mygrade.csv`` จะได้หน้าตาประมาณนี้
+9. ใช้ MS Excel เปิดไฟล์ ```mygrade.csv``` จะได้หน้าตาประมาณนี้
 
  <p> <img src = "./images/Fig_CaseStudy_47.png">
 
