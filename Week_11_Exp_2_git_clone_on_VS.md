@@ -17,7 +17,7 @@
 ```
 ผลการสร้าง repo บน github.com
 ```
-<img src = "./images/Fig-3.28_res.png" align = "center">
+<img src = "https://user-images.githubusercontent.com/92082798/141154791-1a60c47e-fad4-4dea-b76e-24b3a00c953e.jpeg" align = "center">
 
 
 <table>
